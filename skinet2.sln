@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skinet", "skinet\skinet.csproj", "{ACDC2CA3-B383-44B0-8195-3F3007651A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{8327C83A-E314-4320-BA0E-31AB18218705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{DEF741A4-606A-496D-8F5C-98BA60EDC5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDC2CA3-B383-44B0-8195-3F3007651A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDC2CA3-B383-44B0-8195-3F3007651A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDC2CA3-B383-44B0-8195-3F3007651A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDC2CA3-B383-44B0-8195-3F3007651A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8327C83A-E314-4320-BA0E-31AB18218705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8327C83A-E314-4320-BA0E-31AB18218705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8327C83A-E314-4320-BA0E-31AB18218705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8327C83A-E314-4320-BA0E-31AB18218705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF741A4-606A-496D-8F5C-98BA60EDC5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF741A4-606A-496D-8F5C-98BA60EDC5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF741A4-606A-496D-8F5C-98BA60EDC5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF741A4-606A-496D-8F5C-98BA60EDC5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
