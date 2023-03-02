@@ -67,3 +67,7 @@ C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\Humanizer.dll
 C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\Core.dll
+C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\adrianas\Desktop\ESTUDOS\skinet2\skinet\bin\Debug\net7.0\Core.pdb
